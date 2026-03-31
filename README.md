@@ -55,10 +55,15 @@ Boas práticas em Java
 O principal objetivo deste projeto é consolidar o entendimento sobre como estruturas de dados funcionam internamente, sem depender de implementações prontas da linguagem.
 
 📈 Possíveis melhorias
+
 Tornar a lista genérica (<T>)
+
 Implementar exceções customizadas
+
 Adicionar testes unitários com JUnit
+
 Melhorar performance em algumas operações
+
 Implementar mais métodos da List (ex: removeLast, subList, etc.)
 
 👨‍💻 Autor
